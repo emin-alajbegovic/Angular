@@ -30,5 +30,5 @@ Picture:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/57324675/111450050-49a97180-8710-11eb-8c56-ed80823e5378.png)
 
-Link to the website:https://angular-password-generator-ten.vercel.app/
+Link to the website:https://angular-password-generator-75w0a1fbk-emin-alajbegovic.vercel.app/
 
